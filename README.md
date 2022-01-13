@@ -14,6 +14,7 @@ Seu objetivo é criar duas páginas, uma que exibe um formulário com os campos 
 
 ### Instruções: 
  - Implemente o HTML/CSS da tela com base no layout disponível abaixo; 
+ - O layout está disponível nesse [link](https://www.figma.com/proto/0BP9cWb3yAjdaWbjbvM6Gh/TASKS-MAGAZORD?page-id=1563%3A8525&node-id=1564%3A8526&viewport=241%2C48%2C0.52&scaling=contain)
 
 ### Você pode:
  - Utilizar bibliotecas css como compass, bourbon, animatecss ou outras;
@@ -31,16 +32,16 @@ Seu objetivo é criar duas páginas, uma que exibe um formulário com os campos 
 ## Guia de estilo
 
 ### Label
- - Cor da fonte: <span style="color:#999999">*#999999*</span>.
+ - Cor da fonte: <span style="color:#989898">*#989898*</span>.
 
 ### Input:
- - Cor da fonte sem foco: <span style="color:#efeeed">*#efeeed*</span>.
- - Cor da fonte com foco: <span style="color:#555555">*#555555*</span>.
- - Cor da borda: <span style="color:#dbdbdb">*#dbdbdb*</span>.
+ - Cor da fonte sem foco: <span style="color:#989898">*#989898*</span>.
+ - Cor da fonte com foco: <span style="color:#000000">*#000000*</span>.
+ - Cor da borda: <span style="color:#DBDBDB">*#dbdbdb*</span>.
 
 ### Botão:
  - Cor da fonte com foco: <span style="color:#ffffff">*#ffffff*</span>.
- - Cor de background: <span style="color:#40c8f4">*#40c8f4*</span>.
+ - Cor de background: <span style="color:#0587FF">*#0587FF*</span>.
 
 ### Botão Hover:
  - Opacidade do botão com hover: 70%.
@@ -52,7 +53,7 @@ Use sua criatividade para criar a página para listar os dados cadastrados
  - Faça um fork do projeto e ao finalizar envie um e-mail para [gabriel.cordeiro@magazord.com.br](mailto:gabriel.cordeiro@magazord.com.br) com cópia para [paula.raimundo@magazord.com.br](mailto:paula.raimundo@magazord.com.br) com o título "Teste para vaga de estágio front-end - SEU NOME" e com a URL do seu repositório
 
 ### Exemplo final
-falta colocar a imagem
-![inputs](./images/versao-web.jpg)
+
+![Modelo Layout](image/modelo-layout.png)
 
 
