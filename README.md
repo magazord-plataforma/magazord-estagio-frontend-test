@@ -38,16 +38,13 @@ Seu objetivo é criar duas páginas, uma que exibe um formulário com os campos 
  - Cor da fonte com foco: <span style="color:#555555">*#555555*</span>.
  - Cor da borda: <span style="color:#dbdbdb">*#dbdbdb*</span>.
 
-### Botão Abilitado:
+### Botão:
  - Cor da fonte com foco: <span style="color:#ffffff">*#ffffff*</span>.
  - Cor de background: <span style="color:#40c8f4">*#40c8f4*</span>.
 
 ### Botão Hover:
  - Opacidade do botão com hover: 70%.
 
-### Botão Desabilitado:
- - Cor da fonte sem foco: <span style="color:#dddcdc">*#dddcdc*</span>.
- - Cor de background: <span style="color:#f6f6f6">*#f6f6f6*</span>.
 
 Use sua criatividade para criar a página para listar os dados cadastrados 
 
