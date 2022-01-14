@@ -1,4 +1,8 @@
+<div align='center'>
+ 
 ![Magazord](image/logo-magazord.png)
+ 
+ </div>
 
 # Teste (Front-end)
 Teste para candidatos à vaga de desenvolvedor Front-end estagiário no [Magazord.com.br](https://www.magazord.com.br)
@@ -36,21 +40,20 @@ Seu objetivo é criar duas páginas, uma que exiba um formulário com os campos 
 
 ### Input:
  - Cor da fonte sem foco: <span style="color:#989898">*#989898*</span>.
- - Cor da fonte com foco: <span style="color:#000000">*#000000*</span>.
- - Cor da borda: <span style="color:#DBDBDB">*#dbdbdb*</span>.
+ - Cor da fonte com foco: <span style="color:#262626">*#262626*</span>.
+ - Cor da borda: <span style="color:#DBDBDB">*#DBDBDB*</span>.
 
 ### Botão:
- - Cor da fonte com foco: <span style="color:#ffffff">*#ffffff*</span>.
- - Cor de background: <span style="color:#0587FF">*#0587FF*</span>.
+ - Cor da fonte: <span style="color:#FFFFFF">*#FFFFFF*</span>.
+ - Cor de background: <span style="color:#57AEFF">*#57AEFF*</span>.
 
 ### Botão Hover:
- - Opacidade do botão com hover: 70%.
-
+ - Cor de background: <span style="color:#0587FF">*#0587FF*</span>.
 
 Use sua criatividade para criar a página para listar os dados cadastrados 
 
 ### Entrega do teste
- - Faça um fork do projeto e ao finalizar envie um e-mail para [gabriel.cordeiro@magazord.com.br](mailto:gabriel.cordeiro@magazord.com.br) com cópia para [paula.raimundo@magazord.com.br](mailto:paula.raimundo@magazord.com.br) com o título "Teste para vaga de estágio front-end - SEU NOME" e com a URL do seu repositório
+ - Faça um fork do projeto e ao finalizar envie um e-mail para [gabriel.cordeiro@magazord.com.br](mailto:gabriel.cordeiro@magazord.com.br) com cópia para [paula.raimundo@magazord.com.br](mailto:paula.raimundo@magazord.com.br) com o título "Teste para vaga de estágio front-end - SEU NOME", e com a URL do seu repositório
 
 ### Exemplo final
 
