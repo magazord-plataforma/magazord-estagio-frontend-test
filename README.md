@@ -1,11 +1,11 @@
-![LeanWork](image/logo-magazord.png)
+![Magazord](image/logo-magazord.png)
 
 # Teste (Front-end)
 Teste para candidatos à vaga de desenvolvedor Front-end estagiário no [Magazord.com.br](https://www.magazord.com.br)
 
 ### O Desafio
 
-Seu objetivo é criar duas páginas, uma que exibe um formulário com os campos abaixo, e outra que liste os dados cadastrados.
+Seu objetivo é criar duas páginas, uma que exiba um formulário com os campos abaixo, e outra que liste os dados cadastrados.
 
 * Nome completo
 * CPF
