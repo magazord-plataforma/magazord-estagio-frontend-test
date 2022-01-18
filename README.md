@@ -18,7 +18,7 @@ Seu objetivo é criar duas páginas, uma que exiba um formulário com os campos 
 
 ### Instruções: 
  - Implemente o HTML/CSS da tela com base no layout disponível abaixo; 
- - O layout está disponível nesse [link](https://www.figma.com/proto/0BP9cWb3yAjdaWbjbvM6Gh/TASKS-MAGAZORD?page-id=1563%3A8525&node-id=1564%3A8526&viewport=241%2C48%2C0.52&scaling=contain)
+ - O layout está disponível nesse [link](https://www.figma.com/proto/a7r3cm5mtq8aiXr4lO11sC/TESTE-EST%C3%81GIO-FRONT_END?page-id=0%3A1&node-id=2%3A19&viewport=241%2C48%2C0.3&scaling=min-zoom&starting-point-node-id=2%3A19)
 
 ### Você pode:
  - Utilizar bibliotecas css como compass, bourbon, animatecss ou outras;
