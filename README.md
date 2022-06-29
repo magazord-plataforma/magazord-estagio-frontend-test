@@ -53,7 +53,7 @@ Seu objetivo é criar duas páginas, uma que exiba um formulário com os campos 
 Use sua criatividade para criar a página para listar os dados cadastrados 
 
 ### Entrega do teste
- - Faça um fork do projeto e ao finalizar envie um e-mail para [gabriel.cordeiro@magazord.com.br](mailto:gabriel.cordeiro@magazord.com.br) com cópia para [paula.raimundo@magazord.com.br](mailto:paula.raimundo@magazord.com.br) com o título "Teste para vaga de estágio front-end - SEU NOME", e com a URL do seu repositório
+ - Faça um fork do projeto e ao finalizar envie um e-mail para [gabriel.cordeiro@magazord.com.br](mailto:gabriel.cordeiro@magazord.com.br) com o título "Teste para vaga de estágio front-end - SEU NOME", e com a URL do seu repositório
 
 ### Exemplo final
 
