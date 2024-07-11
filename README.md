@@ -23,8 +23,8 @@ Seu objetivo é criar duas páginas, uma que exiba um formulário com os campos 
 ### Você pode:
  - Utilizar bibliotecas css como compass, bourbon, animatecss ou outras;
 
-### Você não pode:
- - Usar frameworks, como Bootstrap, Materialize, Angular, VueJS, ReactJS
+### Será um diferencial
+ - Se fizer em React ou Next
  
 ### O que esperamos: 
  - HTML e CSS de forma que fique fiel ao layout
